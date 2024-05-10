@@ -8,14 +8,15 @@
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
       ]
     },
     "footer": {
-      "logo": "image/logo.png",
       "caption": "My project",
       "links": [
         {
