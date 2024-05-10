@@ -32,21 +32,34 @@
       "socials": [
         {
           "logo": "Twitter",
-          "href": "https://twitter.com/docuo_team"
+          "href": "https://twitter.com/docuo_team",
+          "id": "1bd3737b"
         },
         {
           "logo": "LinkedIn",
-          "href": "https://www.linkedin.com/company/spreadingai"
+          "href": "https://www.linkedin.com/company/spreadingai",
+          "id": "58646e46"
         },
         {
           "logo": "Discord",
-          "href": "https://discord.gg/pgJFhUwzAU"
+          "href": "https://discord.gg/pgJFhUwzAU",
+          "id": "1d43e51e"
         },
         {
           "logo": "GitHub",
-          "href": "spreadingai"
+          "href": "spreadingai",
+          "id": "cef51794"
+        },
+        {
+          "id": "48af4702",
+          "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace7/50e113c14d0b49c6fe15bc4abe3bf086/social_icon_267895b6.png",
+          "href": ""
         }
-      ]
+      ],
+      "logo": {
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace7/50e113c14d0b49c6fe15bc4abe3bf086/footer_dark_logo.png?ts=1715338998398",
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace7/50e113c14d0b49c6fe15bc4abe3bf086/footer_light_logo.png?ts=1715338996064"
+      }
     }
   }
 }
