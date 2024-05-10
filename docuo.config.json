@@ -4,7 +4,7 @@
   "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace7/50e113c14d0b49c6fe15bc4abe3bf086/favicon.png?ts=1715150548346",
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
